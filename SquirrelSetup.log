@@ -1,0 +1,6 @@
+﻿2024-08-05 14:16:42> Program: Starting Squirrel Updater: --update https://download.geogebra.org/installers/6.0/suite/
+2024-08-05 14:16:42> Program: Starting update, downloading from https://download.geogebra.org/installers/6.0/suite/
+2024-08-05 14:16:42> Program: About to update to: C:\Users\Administrador\AppData\Local\GeoGebra_Calculator
+2024-08-05 14:16:42> CheckForUpdateImpl: Generated new staging user ID: 76fa6f8a-28fa-5de9-88a4-86f307b3d0f2
+2024-08-05 14:16:42> CheckForUpdateImpl: Downloading RELEASES file from https://download.geogebra.org/installers/6.0/suite
+2024-08-05 14:16:42> FileDownloader: Downloading url: https://download.geogebra.org/installers/6.0/suite/RELEASES?id=GeoGebra_Calculator&localVersion=6.0.850&arch=amd64
